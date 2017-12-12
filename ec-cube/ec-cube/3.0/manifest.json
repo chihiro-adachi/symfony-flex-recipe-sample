@@ -1,3 +1,6 @@
 {
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
     "aliases": ["ec-cube", "eccube"]
 }
